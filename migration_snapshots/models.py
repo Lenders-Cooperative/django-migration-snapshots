@@ -132,7 +132,7 @@ if settings.MIGRATION_SNAPSHOT_MODEL is True:
         )
         graph_source = models.TextField(blank=True, null=True)
         output_file = models.FileField(
-            upload_to="migration_vis/", blank=True, null=True
+            upload_to=settings.MIGRATION_SNAPSHOT_DIR, blank=True, null=True
         )
         created_at = models.DateField(auto_now_add=True)
         modified_at = models.DateField(auto_now=True)
