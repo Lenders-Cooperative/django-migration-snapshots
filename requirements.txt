@@ -1,0 +1,4 @@
+Sphinx
+sphinx-autobuild
+graphviz
+python-dateutil

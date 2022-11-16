@@ -1,0 +1,19 @@
+*.py[cod]
+__pycache__
+.pytest_cache/
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+
+# Sphinx
+docs/_build
+
+venv/
