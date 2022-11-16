@@ -4,6 +4,7 @@ wheel
 zest.releaser
 black
 isort
+django
 pytest
 pytest-django
 pytest-djangoapp

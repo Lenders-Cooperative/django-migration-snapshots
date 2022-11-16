@@ -2,6 +2,12 @@
 Django Migration Snapshots
 =============================
 
+.. image:: https://img.shields.io/badge/license-BSD-blue.svg
+   :target: https://github.com/Lenders-Cooperative/django-migration-snapshots/blob/main/LICENSE
+
+.. image:: https://readthedocs.org/projects/django-migration-snapshots/badge/?version=stable&style=flat
+   :target: https://django-migration-snapshots.readthedocs.io
+
 .. image:: https://img.shields.io/pypi/v/django-migration-snapshots.svg
    :target: https://pypi.org/project/django-migration-snapshots/
 
@@ -107,6 +113,7 @@ Features
 TODO's
 -------
 * Additional test coverage
+* Setup tox
 * Additional filters in management command (ie; per app, per model, etc.)
 
 
