@@ -48,7 +48,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "Django Migration Snapshots"
-copyright = "2022, Michael McClelland"
+copyright = "2022, Lenders Cooperative"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -195,7 +195,7 @@ latex_documents = [
         "index",
         "django-migration-snapshots.tex",
         "Django Migration Snapshots Documentation",
-        "Michael McClelland",
+        "Lenders Cooperative",
         "manual",
     ),
 ]
@@ -230,7 +230,7 @@ man_pages = [
         "index",
         "django-migration-snapshots",
         "Django Migration Snapshots Documentation",
-        ["Michael McClelland"],
+        ["Lenders Cooperative"],
         1,
     )
 ]
@@ -249,7 +249,7 @@ texinfo_documents = [
         "index",
         "django-migration-snapshots",
         "Django Migration Snapshots Documentation",
-        "Michael McClelland",
+        "Lenders Cooperative",
         "django-migration-snapshots",
         "One line description of project.",
         "Miscellaneous",

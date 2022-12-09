@@ -115,6 +115,7 @@ TODO's
 * Additional test coverage
 * Setup tox
 * Additional filters in management command (ie; per app, per model, etc.)
+* More documentation
 
 
 Local Development
